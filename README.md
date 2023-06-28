@@ -1,1 +1,1 @@
-# loyalty-point-api
+# Loyalty Point API
